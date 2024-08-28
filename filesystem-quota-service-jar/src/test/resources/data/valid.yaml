@@ -1,0 +1,4 @@
+quotaEnabled: true
+sizeGenericQuota: 52991616
+customQuotas: {user1: 42991616, user2: 54525952, user3: 314572800}
+
